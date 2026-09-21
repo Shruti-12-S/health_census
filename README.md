@@ -87,17 +87,3 @@ Enter one of the supported condition names in the search field and click **Searc
 Patient records are stored only in the browser's in-memory JavaScript array and are not saved to a database or sent to a server. Records are lost when the page is refreshed.
 
 Do not enter real personally identifiable or sensitive medical information into this demo application.
-
-## Contributing
-
-Contributions are welcome. To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Test the application in a browser.
-5. Open a pull request with a clear description of your changes.
-
-## License
-
-No license has been specified for this repository yet. Contact the repository owner before redistributing or reusing the code.
